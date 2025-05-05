@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TurkForce - Türk'ün Gücü, Teknolojinin Kalbi</title>
+    <style>
+        body {
+            background-color: #61B329;
+            color: black;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        .section {
+            background-color: #1B3F8B;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+        }
+        h2 {
+            margin-top: 0;
+            color: black;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            color: black;
+            font-size: 1.1em;
+        }
+        th, td {
+            border: 1px solid #D11600;
+            padding: 10px;
+            text-align: left;
+        }
+        .total {
+            font-weight: bold;
+            margin-top: 10px;
+            color: #D11600;
+            font-size: 1.1em;
+        }
+    </style>
+</head>
+<body>
+    <h1>TurkForce - Türk'ün Gücü, Teknolojinin Kalbi</h1>
+
+    <div class="section">
+        <h2>Arabalar</h2>
+        <ul>
+            <li>BMW M Serisi (1990-2015): 12.000 Euro / 70.000 Euro</li>
+            <li>Mercedes 500e: 20.000 Euro</li>
+            <li>Jaguar F Type (2015): 6.000 Euro</li>
+            <li>Mercedes C63 AMG (2015): 12.000 Euro</li>
+            <li>Lamborghini Gallardo: 50.000 Euro</li>
+            <li>Ferrari F40: 47.000 Euro</li>
+            <li>Audi RS6: 17.000 Euro</li>
+            <li>Audi Quattro (1991): 6.000 Euro</li>
+            <li>Nissan Nismo, 350Z, 370Z ve R34: 25.000 Euro</li>
+            <li>Porsche 911 GT3 ve Carrera 96': 21.000 Euro</li>
+            <li>Mazda RX7: 4.000 Euro</li>
+            <li>Toyota, 3000GT, Supra: 20.000 Euro</li>
+            <li>Nissan 240sx: 8.000 Euro</li>
+            <li>Mitsubishi Eclipse Lancer Evo 6,8,10: 4.000 Euro</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>PC Parçaları</h2>
+        <table>
+            <tr><td>Anakart</td><td>Asus Rog Strix B860-I</td><td>235 Euro</td></tr>
+            <tr><td>İşlemci</td><td>Ryzen 7000s 8700F</td><td>369 Euro</td></tr>
+            <tr><td>Ekran Kartı</td><td>4060ti</td><td>549 Euro</td></tr>
+            <tr><td>RAM</td><td>Corsair Vengeance 16x2</td><td>249 Euro</td></tr>
+            <tr><td>PSU</td><td>Gigabyte UD750GM 750w</td><td>200 Euro</td></tr>
+            <tr><td>Monitör</td><td>Rampage Crimson</td><td>120 Euro</td></tr>
+            <tr><td>Klavye</td><td>Rampage KB-R97</td><td>100 Euro</td></tr>
+            <tr><td>Kasa</td><td>Rampage AZZA V2</td><td>130 Euro</td></tr>
+            <tr><td>Mouse</td><td>Rampage Zenith Pro</td><td>67 Euro</td></tr>
+            <tr><td>Direksiyon</td><td>Rampage v902s</td><td>109 Euro</td></tr>
+        </table>
+        <p class="total">Toplam: 2.128 Euro</p>
+    </div>
+
+    <div class="section">
+        <h2>Oyun Fiyatları</h2>
+        <ul>
+            <li>Mount and Blade Warband: 2 Euro</li>
+            <li>BeamNG.drive: 3 Euro</li>
+            <li>Teardown: 4 Euro</li>
+            <li>COD Koleksiyonu: 25 Euro</li>
+            <li>NFS Koleksiyonu: 12 Euro</li>
+            <li>FIFA 2014-2023: 4 Euro</li>
+            <li>PES Koleksiyonu: 12 Euro</li>
+            <li>Assetto Corsa, ETS2: 6 Euro</li>
+            <li>BF1: 4 Euro</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Not</h2>
+        <p>Alımlar ve alınacaklara eklenecekler için iletişim: yagsjd@gamil.com.</p>
+    </div>
+
+</body>
+</html>
